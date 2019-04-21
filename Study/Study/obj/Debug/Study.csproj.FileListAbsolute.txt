@@ -1,0 +1,11 @@
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.csprojAssemblyReference.cache
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.Properties.Resources.resources
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.Study.resources
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.csproj.GenerateResource.cache
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\Users\tereh\Desktop\Практика\Study\Study\bin\Debug\Study.exe.config
+C:\Users\tereh\Desktop\Практика\Study\Study\bin\Debug\Study.exe
+C:\Users\tereh\Desktop\Практика\Study\Study\bin\Debug\Study.pdb
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.exe
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.pdb
+C:\Users\tereh\Desktop\Практика\Study\Study\obj\Debug\Study.Add.resources
